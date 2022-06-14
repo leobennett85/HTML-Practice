@@ -1,0 +1,32 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    padding: 0px;
+    margin: 0;
+}
+
+.grid-head {
+    background-color: rgb(196, 193, 255);
+    /**border: 1px solid rgba(0, 0, 0, 0.8);*/
+    padding: 0x;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.grid-item {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(255, 255, 255);
+    padding: 0x;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.grid-item2 {
+    background-color: rgb(233, 232, 255);
+    border: 1px solid rgb(255, 255, 255);
+    padding: 0x;
+    font-size: 1rem;
+    text-align: center;
+}
