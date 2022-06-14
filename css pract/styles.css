@@ -12,21 +12,21 @@
     /**border: 1px solid rgba(0, 0, 0, 0.8);*/
     padding: 0x;
     font-size: 1rem;
-    text-align: center;
+    text-align: Justify;
 }
 
-.grid-item {
+.grid-item1 {
     background-color: rgb(255, 255, 255);
     border: 1px solid rgb(255, 255, 255);
-    padding: 0x;
-    font-size: 1rem;
-    text-align: center;
+    padding: 0;
+    font-size: 1em;
+    text-align: left;
 }
 
 .grid-item2 {
     background-color: rgb(233, 232, 255);
     border: 1px solid rgb(255, 255, 255);
-    padding: 0x;
+    padding: 0;
     font-size: 1rem;
-    text-align: center;
+    text-align: left;
 }
